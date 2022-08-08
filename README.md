@@ -5,7 +5,7 @@ Air quality monitoring, modelling and forecasting are considered pressing and ch
 
 The purpose of each file included in this repository is briefly described below:
 
-- _GNN_NO2.ipynb_ includes steps for predicting nitrogen dioxide by implementing A3T-GCN and comparing it with results from reference methods (LSTM and GRU).
+- _GNN_NO2.ipynb_ includes steps for predicting nitrogen dioxide by implementing A3T-GCN and comparing it with the results from reference methods (LSTM and GRU).
 - _Graph_Network.ipynb_ contains the procedure for constructing graph network of the air quality stations placed in the city of Madrid.
 - _distanceNodes.txt_ includes the distance between the air quality stations placed in the city of Madrid (24 stations, 276 edges each edge is placed 2 times depending on the node order: origin, destination).
 
