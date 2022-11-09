@@ -7,9 +7,9 @@ The purpose of each file included in this repository is briefly described below:
 
 - _GNN_NO2.ipynb_ includes steps for predicting nitrogen dioxide by implementing A3T-GCN and comparing it with the results from reference methods (LSTM and GRU).
 - _Graph_Network.ipynb_ contains the procedure for constructing graph network of the air quality stations placed in the city of Madrid.
-- _distanceNodes.ipynb_ includes the procedure of calculating the distance between the air quality stations placed in the city of Madrid (24 stations).
+- _distanceNodes.ipynb_ includes the procedure for calculating the distance between the air quality stations placed in the city of Madrid (24 stations).
 - _distanceNodes.txt_ includes the distance between the air quality stations placed in the city of Madrid (24 stations, 276 edges each edge is placed 2 times depending on the node order: origin, destination).
-- _Extract_Stations_Data_2019_2022.ipynb_ includes the procedure of extracting the data (raws/cells) referring only to the air quality monitoring stations´ cells. 
+- _Extract_Stations_Data_2019_2022.ipynb_ includes the procedure for extracting the data (raws/cells) referring only to the air quality monitoring stations´ cells. 
 
 
 The datasets can be found at the following link: https://doi.org/10.5281/zenodo.7308425.
