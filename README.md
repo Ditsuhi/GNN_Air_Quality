@@ -12,6 +12,6 @@ The purpose of each file included in this repository is briefly described below:
 - _Extract_Stations_Data_2019_2022.ipynb_ includes the procedure of extracting the data (raws/cells) referring only to the air quality monitoring stations´ cells. 
 
 
-The dataset can be found at the following link: https://doi.org/10.5281/zenodo.7308425.
+The datasets can be found at the following link: https://doi.org/10.5281/zenodo.7308425.
 
 
