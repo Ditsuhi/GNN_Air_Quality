@@ -6,7 +6,7 @@ Air quality monitoring, modelling and forecasting are considered pressing and ch
 The purpose of each file included in this repository is briefly described below:
 
 - _A3T-GCN_TGCN_LSTM_GRU.ipynb_ includes steps for predicting nitrogen dioxide by implementing A3T-GCN and comparing it with the results from reference methods (TGCN, LSTM and GRU).
-- _Extract_Stations_Data_2019_2022.ipynb_ includes the procedure for extracting the data (raws/cells) referring only to the air quality monitoring stations´ cells. 
+- _Extract_Stations_Data_2019_2022.ipynb_ includes the procedure for extracting the data (raws/cells) referring only to the air quality monitoring stations' cells. 
 - _Graph_Network.ipynb_ contains the procedure for constructing graph network of the air quality stations placed in the city of Madrid.
 - _distanceNodes.ipynb_ includes the procedure for calculating the distance between the air quality stations placed in the city of Madrid (24 stations).
 - _distanceNodes.txt_ includes the distance between the air quality stations placed in the city of Madrid (24 stations, 276 edges each edge is placed 2 times depending on the node order: origin, destination).
